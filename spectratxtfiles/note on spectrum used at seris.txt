@@ -1,0 +1,2 @@
+I am using in my python scripts the spectrum defined by NREL (https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html). (global tilt in astmg173_NRELref)
+This is unfortunately not what is used in the excel files of Nitin: it is same data but he used a normalization factor 0.9971. who is HJW?
