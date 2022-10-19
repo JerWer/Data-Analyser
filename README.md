@@ -7,10 +7,15 @@ Data Analysis software for photovoltaic solar cell research
 
 - EQE curves: J calculation, plotting, Eg calculation
 
-- XRD: peak finding and analysis
+- XRD: peak finding and analysis, including literature-based patterns database
 
 - UV/vis
 
 - Transfer Matrix Modelling
 
-- PL
+- n&k data
+
+- PL image recognition and sorting
+
+
+![ReadmeIllustration](https://user-images.githubusercontent.com/43646765/196578108-e2a0c2b0-7762-4e9c-aae1-6fc63d253719.png)
